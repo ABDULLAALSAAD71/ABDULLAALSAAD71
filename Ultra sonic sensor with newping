@@ -18,9 +18,3 @@ void loop()
   Serial.print(sonar.ping_cm()); 
   Serial.println("cm");
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
